@@ -289,9 +289,6 @@ void play() {
 		}
 	}
 	
-	for (i = 0; i <= (l-1); i++) {
-		printf("%d \n", table[i]);
-	}
 	
 	
 	char input[100];	// creo un array di char di dimensione 100 che conterrà l'input dell'utente
